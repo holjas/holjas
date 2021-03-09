@@ -1,2 +1,3 @@
-:wave # Hello. I'm Holly.
+👋  # Hello. I'm Holly.
 That' all for now.
+
