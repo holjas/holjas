@@ -1,2 +1,2 @@
-U+1F44B # Hello. I'm Holly.
+:wave # Hello. I'm Holly.
 That' all for now.
