@@ -1,18 +1,7 @@
-# Hello. I'm Holly. 👋 
+<h2> Hello. I'm Holly.</h2> 👋 
 
-I'm a Front-End Web Developer in Toronto. I also like to make things out of wool. 🧣
+<p><em>Front-End Developer in Toronto</em></p>
 
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: https://i.imgur.com/LS08Auh.png (twitter icon without padding)
-[2.2]: https://i.imgur.com/mg8oOzZ.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/ThisIsHollyJ
-[2]: https://www.linkedin.com/in/hollyjasiura/
-
+[![Twitter: ThisIsHollyJ](https://img.shields.io/twitter/follow/ThisIsHollyJ?style=social)](https://twitter.com/ThisIsHollyJ)
+[![Linkedin: Holly Jasiura](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hollyjasiura/)](https://www.linkedin.com/in/hollyjasiura/)
+[![GitHub holjas](https://img.shields.io/github/followers/holjas?label=follow&style=social)](https://github.com/holjas)
