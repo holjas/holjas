@@ -2,7 +2,7 @@
 
 <p><em>Front-End Developer in Toronto</em></p>
 <br/>
-<p>I began my work life in hospitality. Then after many years in the industry, I became bored to death with corporate action plans and financial statements, so I jumped ship to learn web development. My passion for self-education and curiosity of technology led me to the vast arena of online coding courses. I consider myself a self-starter and as such, I believe that the best learning happens by doing. So I started building my own projects.</p>
+<p>I began my work life in hospitality. Then after many years in the industry, I began to feel stale in the industry, so I jumped ship to learn web development. My passion for self-education and curiosity of technology led me to the vast arena of online coding courses. I consider myself a self-starter and as such, I believe that the best learning happens by doing. So I started building my own projects.</p>
 <p>Craving a collaborative learning environment to compliment my self-aquired skills and to gain some guidance from humans in the field, I enrolled in bootcamp with Juno College. I'm now a proud graduate with a solid foundation in HTML, CSS, Javascript and React.</p>
 <p>I'm a problem solver at heart but with a secret jones for design and colour. My mantra is “be patient and keep going”. I also like to make things out of wool. 
 </p>
