@@ -1,11 +1,14 @@
-<h2> Hello. I'm Holly 👋 .</h2>
+<h2> Hello! I'm Holly 👋 </h2>
 
-<p><em>Front-End Developer in Toronto</em></p>
+<p>🖥️ <em>Front-End Developer in Toronto, Canada</em> 🍁</p>
 <br/>
-<p>I began my work life in hospitality. Then after many years in the industry, I began to feel stale in the industry, so I jumped ship to learn web development. My passion for self-education and curiosity of technology led me to the vast arena of online coding courses. I consider myself a self-starter and as such, I believe that the best learning happens by doing. So I started building my own projects.</p>
-<p>Craving a collaborative learning environment to compliment my self-aquired skills and to gain some guidance from humans in the field, I enrolled in bootcamp with Juno College. I'm now a proud graduate with a solid foundation in HTML, CSS, Javascript and React.</p>
-<p>I'm a problem solver at heart but with a secret jones for design and colour. My mantra is “be patient and keep going”. I also like to make things out of wool. 
-</p>
+<p>I am a collaborative front-end web developer with an eye for detail and a way with words. I am well versed in a number of languages and frameworks, including HTML, CSS, Javascript, jQuery, Sass and Bootstrap to name a few…</p>
+
+<p>I have years of experience in the hospitality industry that have molded me into a great team player with a real knack for communicating with folks.  I find it easy to understand what someone is trying to convey and keep a positive attitude during times of uncertainty and stress. </p>
+
+<p>I’m super excited to utilize my skills to build inclusive, creative, intuitive and clean applications that can be enjoyed by everyone! 🌈🌈  ✅  🖌️</p>
+
+<p>🙏 My mantra is “be patient and keep going”. I also like to make things out of wool. 🧣</p>
 <br/>
 
 [![Twitter: ThisIsHollyJ](https://img.shields.io/twitter/follow/ThisIsHollyJ?style=social)](https://twitter.com/ThisIsHollyJ)
