@@ -1,6 +1,6 @@
 <h1> Hello! I'm Holly 👋 </h1>
 
-<h3>🖥️  <em>Front-End Developer in Toronto, Canada</em> 🍁</h3>
+<h3><em>Front-End Developer in Toronto, Canada</em></h3>
 ------------------------
 <br/>
 <p> I’m a front-end developer who is doing her part to make creative and intuitive applications for this world that can be enjoyed by everyone!</p>
@@ -14,5 +14,8 @@
 [![Twitter: ThisIsHollyJ](https://img.shields.io/twitter/follow/ThisIsHollyJ?style=social)](https://twitter.com/ThisIsHollyJ)
 [![Linkedin: Holly Jasiura](https://img.shields.io/badge/-hollyjasiura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hollyjasiura/)](https://www.linkedin.com/in/hollyjasiura/)
 [![GitHub holjas](https://img.shields.io/github/followers/holjas?label=follow&style=social)](https://github.com/holjas)
+
+------------------------
+<br/>
 <br/>
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQF4Z6qgruAigw/profile-displaybackgroundimage-shrink_350_1400/0/1619732925071?e=1625097600&v=beta&t=eb1lJmmeLStrkqhSBnBunoJeRC3Bkff6phpbgqPHr1w" alt="grid grid design with polka dots"/>
