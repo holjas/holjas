@@ -12,7 +12,9 @@
 ------------------------
 
 [![Twitter: ThisIsHollyJ](https://img.shields.io/twitter/follow/ThisIsHollyJ?style=social)](https://twitter.com/ThisIsHollyJ)
+<br/>
 [![Linkedin: Holly Jasiura](https://img.shields.io/badge/-hollyjasiura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hollyjasiura/)](https://www.linkedin.com/in/hollyjasiura/)
+<br/>
 [![GitHub holjas](https://img.shields.io/github/followers/holjas?label=follow&style=social)](https://github.com/holjas)
 
 ------------------------
