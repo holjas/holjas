@@ -31,7 +31,8 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> 
                                                                                                                           <br/>
                                                                                                                           <a <a href="https://twitter.com/ThisIsHollyJ">
-   <img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>      </a>                                                                            
+   <img alt="Twitter" src="https://img.shields.io/badge/<thisIsHollyJ>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>      </a>   
+   <br/>
 ------------------------
 <br/>
 <br/>
