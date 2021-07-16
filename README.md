@@ -34,7 +34,3 @@
    <img alt="Twitter" src="https://img.shields.io/badge/<thisIsHollyJ>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>   
 </p>
-------------------------
-<br/>
-<br/>
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQF4Z6qgruAigw/profile-displaybackgroundimage-shrink_350_1400/0/1619732925071?e=1625097600&v=beta&t=eb1lJmmeLStrkqhSBnBunoJeRC3Bkff6phpbgqPHr1w" alt="grid grid design with polka dots"/>
