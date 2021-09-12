@@ -5,8 +5,6 @@
 <br/>
 <p> I’m a front-end developer who is doing her part to make creative and intuitive applications for this world that can be enjoyed by everyone!</p>
 
-<p>My time spent working in hospitality was crucial in molding me into an awesome team player with a real knack for communicating with folks. I always bring a positive attitude in times of uncertainty and stress - and on regular days too! You will always find me with a cup of tea in hand to ponder over any problems that come my way because I love to problem solve and to help people out.</p>
-
 <p>When I'm not getting my learn on, you can usually find me wondering the streets of Toronto for the latest snack trends or knitting a sweater while grooving to some 80's pop tunes.</p>
 
 <p float="left">
