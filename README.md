@@ -3,9 +3,6 @@
 <h3><em>Front-End Developer in Toronto, Canada</em></h3>
 ------------------------
 <br/>
-<p> I’m a front-end developer who is doing her part to make creative and intuitive applications for this world that can be enjoyed by everyone!</p>
-
-<p>When I'm not getting my learn on, you can usually find me wondering the streets of Toronto for the latest snack trends or knitting a sweater while grooving to some 80's pop tunes.</p>
 
 <p float="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
