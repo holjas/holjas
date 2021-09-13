@@ -1,6 +1,7 @@
 <h1> Hello! I'm Holly 👋 </h1>
 
 <h3><em>Front-End Developer in Toronto, Canada</em></h3>
+<p>I’m a front-end developer who is doing her part to make creative and intuitive applications for this world that can be enjoyed by everyone!</p>
 ------------------------
 <br/>
 
