@@ -1,7 +1,6 @@
 <h1> Hello! I'm Holly 👋 </h1>
 
 <h3><em>Front-End Developer in Toronto, Canada</em></h3>
-<p>I’m a front-end developer who is doing her part to make creative and intuitive applications for this world that can be enjoyed by everyone!</p>
 ------------------------
 <br/>
 
@@ -41,6 +40,5 @@
    <img alt="Twitter" src="https://img.shields.io/badge/<thisIsHollyJ>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>   
 </p>
-------------------------
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holjas"/>
+
 
