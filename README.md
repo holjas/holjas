@@ -25,7 +25,7 @@
     <img alt="graphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
      <img alt="jire" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
       <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-      <img alt="pes" src="https://img.shields.io/badge/pes-21759B?style=for-the-badge&logo=pest&logoColor=white"/>
+      <img alt="pest" src="https://img.shields.io/badge/pest-21759B?style=for-the-badge&logo=pest&logoColor=white"/>
 
   
 </p>
