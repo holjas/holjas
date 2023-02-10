@@ -1,6 +1,6 @@
 <h1> Hello! I'm Holly 👋 </h1>
 
-<h3><em>Front-End Developer in Toronto, Canada</em></h3>
+<h3><em>Full Stack Developer in Toronto, Canada</em></h3>
 ------------------------
 <br/>
 
